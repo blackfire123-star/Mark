@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background: #1b1b1b;
+    color: #f8f5e4;
+}
+header {
+    background: #641e16;
+    padding: 1rem;
+    text-align: center;
+}
+header h1 {
+    font-family: 'Cinzel', serif;
+    color: #f4d03f;
+    margin: 0;
+}
+nav a {
+    color: #f8f5e4;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+article {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: #2e2e2e;
+    border: 1px solid #641e16;
+    border-radius: 4px;
+}
+article h2 {
+    color: #f4d03f;
+}
+#dice {
+    text-align: center;
+    margin: 2rem;
+}
+#roll {
+    background: #641e16;
+    color: #f8f5e4;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #641e16;
+    color: #f8f5e4;
+}
